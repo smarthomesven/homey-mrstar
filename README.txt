@@ -1,0 +1,1 @@
+This is a Homey app for controlling LED strips that work with the "MR Star" mobile app. Note that the LED strip device is stateless, state changes made from the MR Star mobile app or physical remote control will not get reflected in Homey.
